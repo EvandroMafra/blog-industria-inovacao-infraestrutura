@@ -18,4 +18,6 @@ Seções do projeto:
 7 - CONCLUSÃO
 8 - Informações do Projeto
 
+PRÉVIA DO BLOG LOGO ABAIXO:
+
 ![Previa-do-blog](https://github.com/user-attachments/assets/3322bad6-5807-4155-bfa2-ebaeccabb22a)
